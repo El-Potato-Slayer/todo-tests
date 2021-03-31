@@ -24,7 +24,7 @@ The objective is to create a web application that allows you to create categorie
 7. Run `cd dist`
 8. Right click on `index.html`, and open the file with a browser or a local server.
 
-**To run the tests, follow these steps:
+**To run the tests, follow these steps:**
 1. Ensure you are in the project root directory
 2. Ensure you ran `npm install`
 3. run `npm run test`
