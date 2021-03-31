@@ -81,12 +81,6 @@ function editTodo(categoryIndex) {
         submit.onclick = () => {
           submitTodo('update', categoryIndex, index);
           todoList(categoryIndex);
-          // displayHeaders();
-          // displayTodos(categoryIndex);
-          // addTodo(categoryIndex);
-          // updateCheckbox(categoryIndex);
-          // deleteTodoBtn(categoryIndex);
-          // editTodo(categoryIndex);
         };
       });
     });
